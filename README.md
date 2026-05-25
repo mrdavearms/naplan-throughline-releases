@@ -4,14 +4,14 @@
 from Year 7 to Year 9 — clearly, on your own computer. No spreadsheets, no logins,
 and no student data ever leaves your machine.
 
-## Download the app — version 0.1.3
+## Download the app — version 0.2.3
 
 > **Easiest:** open the **[download page](https://mrdavearms.github.io/naplan-throughline-releases/)** and click the big button for your computer.
 
 | Computer | Download |
 |---|---|
-| **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-throughline-releases/releases/download/v0.1.3/Naplan.Throughline_0.1.3_universal.dmg)** |
-| **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-throughline-releases/releases/download/v0.1.3/Naplan.Throughline_0.1.3_x64-setup.exe)** |
+| **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-throughline-releases/releases/download/v0.2.3/Naplan.Throughline_0.2.3_universal.dmg)** |
+| **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-throughline-releases/releases/download/v0.2.3/Naplan.Throughline_0.2.3_x64-setup.exe)** |
 
 ### The first time you open it — please read
 
