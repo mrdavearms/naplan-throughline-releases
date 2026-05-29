@@ -4,14 +4,14 @@
 over two years — Year 3 to Year 5, or Year 7 to Year 9 — clearly, on your own computer.
 No spreadsheets, no logins, and no student data ever leaves your machine.
 
-## Download the app — version 1.0.0
+## Download the app — version 1.0.1
 
 > **Easiest:** open the **[download page](https://mrdavearms.github.io/naplan-cohort-tracker-releases/)** and click the big button for your computer.
 
 | Computer | Download |
 |---|---|
-| **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.0.0/NAPLAN.Cohort.Tracker_1.0.0_universal.dmg)** |
-| **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.0.0/NAPLAN.Cohort.Tracker_1.0.0_x64-setup.exe)** |
+| **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.0.1/NAPLAN.Cohort.Tracker_1.0.1_universal.dmg)** |
+| **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.0.1/NAPLAN.Cohort.Tracker_1.0.1_x64-setup.exe)** |
 
 > **Year 3 → Year 5 (primary) is in beta.** Year 7 → Year 9 (secondary) is well-established; primary cohort tracking is new in this release and not yet validated against a wide range of real Year 3/5 files. Treat primary figures as provisional and check them against your source data. Primary leaders — please test it and email feedback to **dave.armstrong@education.vic.gov.au**.
 
