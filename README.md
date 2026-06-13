@@ -4,14 +4,14 @@
 over two years — Year 3 to Year 5, or Year 7 to Year 9 — clearly, on your own computer.
 No spreadsheets, no logins, and no student data ever leaves your machine.
 
-## Download the app — version 1.1.1
+## Download the app — version 1.2.0
 
 > **Easiest:** open the **[download page](https://mrdavearms.github.io/naplan-cohort-tracker-releases/)** and click the big button for your computer.
 
 | Computer | Download |
 |---|---|
-| **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.1.1/NAPLAN.Cohort.Tracker_1.1.1_universal.dmg)** |
-| **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.1.1/NAPLAN.Cohort.Tracker_1.1.1_x64-setup.exe)** |
+| **Mac** (Apple Silicon & Intel) | **[Download the .dmg](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.2.0/NAPLAN.Cohort.Tracker_1.2.0_universal.dmg)** |
+| **Windows** (10 & 11) | **[Download the .exe](https://github.com/mrdavearms/naplan-cohort-tracker-releases/releases/download/v1.2.0/NAPLAN.Cohort.Tracker_1.2.0_x64-setup.exe)** |
 
 > **Early release — may not work properly.** This is an early release and is still being tested, so some figures or screens may not work as expected. Please check anything important against your source spreadsheets before you rely on it. (The Year 3 → Year 5 primary analysis is the newest and least-validated part, so treat primary figures as especially provisional.) Feedback is very welcome — **dave.armstrong@education.vic.gov.au**.
 
@@ -33,6 +33,19 @@ true measure of your school's contribution -- then builds tidy PDF reports.
 
 **Private by design:** everything runs on your computer; no student names appear anywhere
 and nothing is uploaded.
+
+## What's new in 1.2.0
+
+Clearer cohort tracking (Section 10):
+
+- **Student counts beside every percentage** — "−8.5 pp · 6 fewer students at Needs
+  additional support", not just a percentage on a small group.
+- **An honest "is this meaningful?" note** — says when your cohort is too small for a
+  change to be statistically significant, instead of implying false certainty.
+- **A "students who improved" list** to recognise gains, alongside the follow-up list.
+- **Follow-up across domains** — the students who slipped in more than one subject,
+  your clearest intervention priority.
+- **Clearer leavers & joiners** — who left, who joined, and how that shapes the headline.
 
 ## Updates
 
